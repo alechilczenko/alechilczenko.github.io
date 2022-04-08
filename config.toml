@@ -27,8 +27,8 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    title = "Ale"
+    subtitle = "Bienvenido a mi blog!"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -44,7 +44,7 @@ paginate = 5
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "Ale Chilczenko"
       logoHomeLink = "/"
     # or
     #
