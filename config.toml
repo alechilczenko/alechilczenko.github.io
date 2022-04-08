@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://alechilczenko.github.io/blog"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
