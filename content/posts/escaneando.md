@@ -41,7 +41,7 @@ Mientras que Kibana, es la interfaz gráfica para visualizar los datos de Elasti
 ## Despliegue
 El despliegue de las aplicaciones se realiza mediante Docker, por lo tanto podemos lanzar múltiples contenedores y evitar contaminar el entorno con dependencias.
  
-{{< image src="../aws.png" position="center" style="border-radius: 8px;" >}}
+{{< image src="../docker.png" position="center" style="border-radius: 8px;" >}}
  
 ## Resultados
 Luego de varios dias probando, obtuve las siguientes estadísticas para Argentina
