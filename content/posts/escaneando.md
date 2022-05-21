@@ -23,14 +23,13 @@ Los banners son metadatos sobre un software que se ejecuta en un dispositivo. Pu
 220 ProFTPD 1.3.5 Server
 ```
 Esto nos indica el tipo de servidor FTP (ProFTPD) y su versión (1.3.5).
- 
-{{< image src="../escaner.png" position="center" style="border-radius: 8px;" >}}
 
 ## Almacenamiento de datos
 
 El escáner envia los resultados a una API REST de Flask, que cuenta con una base de datos no relacional (MongoDB), su escalabilidad y flexibilidad nos permite manejar un gran volumen de información. Es ideal ya que los datos no son estructurados, los campos para cada documento pueden variar.
 
- 
+{{< image src="../spidex.png" position="center" style="border-radius: 8px;" >}}
+
 ## Utilizando Elasticsearch y Kibana
 
 Los documentos insertados en la base de datos se sincronizan periodicamente con Elasticsearch.
